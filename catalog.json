@@ -1,0 +1,18 @@
+{
+  "format": "rxy-effects-catalog/1",
+  "effects": [
+    {
+      "id": "rxy-partikel-lembut",
+      "version": "1",
+      "name": "Partikel Lembut",
+      "category": "Ambient",
+      "description": "Preset partikel Debu Cahaya: jumlah 12, opacity 30. Mengubah parameter partikel yang disertakan; pengaturan efek lain tetap.",
+      "kind": "preset",
+      "size_bytes": 437,
+      "sha256": "b91ce9b6a3c1a9308fb4d0455022f1c1018e7b2b9e855644d289beacab5a5434",
+      "url": "https://raw.githubusercontent.com/wegadgetdigital-cyber/rxy-effects/main/packages/rxy-partikel-lembut_1.zip",
+      "preview_url": "https://raw.githubusercontent.com/wegadgetdigital-cyber/rxy-effects/main/previews/rxy-partikel-lembut.svg"
+    }
+  ]
+}
+
